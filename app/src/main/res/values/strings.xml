@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaKotlin</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="msg_todo_bien">Entraste bien</string>
+    <string name="msg_mal">Revisa que tus campos esten llenos</string>
+    <string name="title_activity_cerrar_sesion">CerrarSesion</string>
+</resources>
